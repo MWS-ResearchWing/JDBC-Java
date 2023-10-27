@@ -5,7 +5,7 @@ class CreateDB {
         try{
 
             // Connection variables
-            String url = "jdbc:mysql://localhost:3306/Mainak";
+            String url = "jdbc:mysql://localhost:3306/Database_Name";
             String user = "root";
             String password = "";
 
