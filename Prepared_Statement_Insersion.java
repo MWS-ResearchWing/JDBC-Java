@@ -7,7 +7,7 @@ class Prepared_Statement_Insertion {
             // Connection variables
             String url = "jdbc:mysql://localhost:3306/Mainak";
             String user = "root";
-            String password = "spsRijuBalur0706";
+            String password = "";
 
             //calling the connection driver for writing the SQL commands
             Connection con = DriverManager.getConnection(url,user,password);
