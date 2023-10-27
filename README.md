@@ -8,3 +8,6 @@ Collection of basic Java programs to connect a MySQL database or any database of
 | 2 | [Create Database](https://github.com/MWS-ResearchWing/JDBC-Java/blob/main/CreateDB.java) |
 | 3 | [Prepared Statement Insertion](https://github.com/MWS-ResearchWing/JDBC-Java/blob/main/Prepared_Statement_Insertion.java) |
 | 4 | [Dynamic Insertion](https://github.com/MWS-ResearchWing/JDBC-Java/blob/main/DynamicInsertion.java) |
+| 5 | [Save Small Blob Image](https://github.com/MWS-ResearchWing/JDBC-Java/blob/main/ImageSave.java) |
+| 6 | [Select Databases](https://github.com/MWS-ResearchWing/JDBC-Java/blob/main/SelectDB.java) |
+| 7 | [Update Databases](https://github.com/MWS-ResearchWing/JDBC-Java/blob/main/UpdateDB.java) |
