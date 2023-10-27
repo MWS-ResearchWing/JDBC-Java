@@ -3,7 +3,7 @@ class ConnMake {
     public static void main(String []args)
     {
         try{
-            String url = "jdbc:mysql://localhost:3306/Mainak";
+            String url = "jdbc:mysql://localhost:3306/Database_Name";
             String user = "root";
             String password = ""; // put your password if you have one or leave it blank
             Connection con = DriverManager.getConnection(url,user,password);
