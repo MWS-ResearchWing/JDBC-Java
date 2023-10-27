@@ -5,7 +5,7 @@ class ConnMake {
         try{
             String url = "jdbc:mysql://localhost:3306/Mainak";
             String user = "root";
-            String password = "spsRijuBalur0706";
+            String password = ""; // put your password if you have one or leave it blank
             Connection con = DriverManager.getConnection(url,user,password);
 
             if(con.isClosed())
